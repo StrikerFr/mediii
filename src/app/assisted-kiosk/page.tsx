@@ -1,0 +1,7 @@
+"use client";
+
+import { AssistedQueuePage } from "@/features/assisted-kiosk/components/pages/AssistedQueuePage";
+
+export default function AssistedKioskIndexPage() {
+  return <AssistedQueuePage />;
+}
